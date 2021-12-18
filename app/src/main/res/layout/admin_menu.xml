@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/admin_menu_welcome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/admin_menu_welcome"
+        android:padding="24dp"
+        android:textSize="21sp"/>
+
+    <Button
+        android:id="@+id/add_book_menu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/add_book"
+        android:layout_margin="4dp"
+        android:padding="24dp"
+        android:textSize="21sp"/>
+
+    <Button
+        android:id="@+id/view_logs_menu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/view_logs"
+        android:layout_margin="4dp"
+        android:padding="24dp"
+        android:textSize="21sp"/>
+
+
+
+
+
+
+</LinearLayout>

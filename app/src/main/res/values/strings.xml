@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">otterAlexandria</string>
+    <string name="welcome">Welcome to the Library</string>
+    <string name="create_account">Create Account</string>
+    <string name="place_hold">Place Hold</string>
+    <string name="manage_system">Manage System</string>
+    <string name="creation_welcome">Account Creation</string>
+    <string name="username_hint">"Username: "</string>
+    <string name="cipher_hint">"Password: "</string>
+    <string name="admin_user">"Admin Login: "</string>
+    <string name="admin_password">"Admin password: "</string>
+    <string name="admin_login">Admin Login</string>
+    <string name="admin_welcome">Admin Login</string>
+    <string name="admin_menu_welcome">Welcome to the Admin Menu</string>
+    <string name="add_book">Add Book</string>
+    <string name="view_logs">View Logs</string>
+    <string name="add_book_welcome">Add Book</string>
+    <string name="title_hint">"Title: "</string>
+    <string name="book_title_hint">"Book Title: "</string>
+    <string name="author_hint">"Author: "</string>
+    <string name="Genre_hint">"Genre: "</string>
+    <string name="welcome_login">Account Login</string>
+    <string name="password_hint">"Password: "</string>
+    <string name="login">Login</string>
+</resources>
